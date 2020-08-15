@@ -1,6 +1,6 @@
 # extract-sequence-lengths
 
-Build a genome file: a tab-delimited text file containing the lengths of sequences stored in a fasta file.
+Extract sequence lengths from a fasta file and save them to a tab-delimited text file in genome file format.
 
 This script uses Biopython to calculate the lengths of sequences stored in a fasta file and then outputs those lengths to a text file in the format:
 
