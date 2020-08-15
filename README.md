@@ -25,7 +25,7 @@ For example this code:
 
 will calculate the length of each sequence in example_chromosomes.fasta and save those lengths to the example_chromosome_lengths.txt file.
 
-## Dependencies
+## DEPENDENCIES
 
 1. Biopython - Installation instructions [here](https://biopython.org/wiki/Download). Usually you just type:
 
